@@ -13,21 +13,8 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-Bachelor of Information Management System   North China University of Science and Technology）
-GPA: 3.75/4.00 (89.23/100), 
-Have been  coded some programs in C++  PYTHON, for more than 50,000 lines, I have been finished the courses include the 'Discrete Mathematics',  Introduction to Database , ,Algorithm Analysis and Data Structures ,Computer Networks,
-- Discrete Structures
- - Operating Systems Concepts -- CS  Software Engineering Automata Theory
-
-Machine Learning (deep learning, self-supervised learning, reinforcement learning, multimodal machine learning)
-My Publications and/or Submitted 
+### My Publications and/or Submitted 
 HiGitClass:Keyword-Driven Hierarchical Classification of GitHub Repositories.
-Yu Zhang, Frank F. Xu, Sha Li, Yu Meng, Wang Qi ，Li,
 In Proceedings of IEEE International Conference on Data Mining (ICDM), 2019
 https://yuzhimanhua.github.io/papers/icdm19.pdf
 Asking Clarification Questions in Knowledge-Based Question Answering
@@ -47,7 +34,6 @@ A Graph to Graphs Framework for Retrosynthesis Prediction
  https://arxiv.org/abs/2003.12725
 Tag-Enhanced Tree-Structured Neural Networks for Implicit Discourse Relation Classiﬁcation.
 https://www.aclweb.org/anthology/I17-1050/(IJCNLP 2017)
-
 
 **Bold** and _Italic_ and `Code` text
 
