@@ -15,13 +15,13 @@ Asking Clarification Questions in Knowledge-Based Question Answering
 In this paper, we construct a new clarification dataset,
 Proceedings of the 2019 Conference on  (EMNLP-IJCNLP)
 https://www.aclweb.org/anthology/D19-1172/
-DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications
+###DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications
 https://arxiv.org/abs/1711.05073
 This paper introduces DuReader, a new large-scale, open-domain Chinese ma- chine reading comprehension (MRC) dataset, designed to address real-world 
-Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification
+###Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification
 https://www.aclweb.org/anthology/P18-1178/
 The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
-SGM: Sequence Generation Model for Multi-label Classification
+###SGM: Sequence Generation Model for Multi-label Classification
 https://www.aclweb.org/anthology/C18-1330/ Proceedings of the 27th International Conference on Computational Linguistics
 
 A Graph to Graphs Framework for Retrosynthesis Prediction
