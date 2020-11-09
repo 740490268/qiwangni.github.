@@ -18,8 +18,36 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+Bachelor of Information Management System   North China University of Science and Technology）
+GPA: 3.75/4.00 (89.23/100), 
+Have been  coded some programs in C++  PYTHON, for more than 50,000 lines, I have been finished the courses include the 'Discrete Mathematics',  Introduction to Database , ,Algorithm Analysis and Data Structures ,Computer Networks,
+- Discrete Structures
+ - Operating Systems Concepts -- CS  Software Engineering Automata Theory
+
+Machine Learning (deep learning, self-supervised learning, reinforcement learning, multimodal machine learning)
+My Publications and/or Submitted 
+HiGitClass:Keyword-Driven Hierarchical Classification of GitHub Repositories.
+Yu Zhang, Frank F. Xu, Sha Li, Yu Meng, Wang Qi ，Li,
+In Proceedings of IEEE International Conference on Data Mining (ICDM), 2019
+https://yuzhimanhua.github.io/papers/icdm19.pdf
+Asking Clarification Questions in Knowledge-Based Question Answering
+In this paper, we construct a new clarification dataset,
+Proceedings of the 2019 Conference on  (EMNLP-IJCNLP)
+https://www.aclweb.org/anthology/D19-1172/
+DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications
+https://arxiv.org/abs/1711.05073
+This paper introduces DuReader, a new large-scale, open-domain Chinese ma- chine reading comprehension (MRC) dataset, designed to address real-world 
+Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification
+https://www.aclweb.org/anthology/P18-1178/
+The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
+SGM: Sequence Generation Model for Multi-label Classification
+https://www.aclweb.org/anthology/C18-1330/ Proceedings of the 27th International Conference on Computational Linguistics
+
+A Graph to Graphs Framework for Retrosynthesis Prediction
+ https://arxiv.org/abs/2003.12725
+Tag-Enhanced Tree-Structured Neural Networks for Implicit Discourse Relation Classiﬁcation.
+https://www.aclweb.org/anthology/I17-1050/(IJCNLP 2017)
+
 
 **Bold** and _Italic_ and `Code` text
 
