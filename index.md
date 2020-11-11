@@ -1,5 +1,8 @@
 # [editor on GitHub](https://github.com/740490268/qiwangni.github./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+# [editor on GitHub](https://guides.github.com/features/mastering-markdown/).
+
+
  [Jekyll](https://jekyllrb.com/) 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -43,10 +46,7 @@ tion, natural language inference, multi-task imitation learning, and some other 
 March 2018– present
 •Microsoft Research Asia Beijing, China RESEARCH INTERN May. 2019 - Aug. 2019 • Mentor: Dr. Lei Ji, Dr. Nan Duan • Worked on structured multimodal procedural knowledge acquisition and instruction summarization from narrative videos and texts. 
 RESEARCH ASSISTANT Oct. 2015 - Mar. 2019 • on natural language processing, computational social science, information extraction, text mining, with papers published in various venues. 
-I am interested a variety of research in systems-building HCI, . 
-I want to continue my studies at  because of the strong human computer interaction group within the Computer Science department. I especially find the work of
-Implemented Path Tracing (PT), Progressive Photon Mapping 
-Photon Mapping (SPPM) algorithms. Rendered 3D models with Bezier surface. 
+
 ### My Publications and/or Submitted 
 HiGitClass:Keyword-Driven Hierarchical Classification of GitHub Repositories.
 In Proceedings of IEEE International Conference on Data Mining (ICDM), 2019
